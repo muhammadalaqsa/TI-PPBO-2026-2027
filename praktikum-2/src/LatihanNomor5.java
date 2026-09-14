@@ -11,7 +11,6 @@ public class LatihanNomor5 {
             int b = sc.nextInt();
 
         System.out.println("Penjumlahan n: " + (a + b));
-        System.out.println("Pengurangan n: " + (a - b));
         System.out.println("Perkalian n: " + (a * b));
         System.out.println("Pembagian n: " + (a / b));
         System.out.println("Modulus n: " + (a % b));
