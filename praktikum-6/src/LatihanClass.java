@@ -1,12 +1,7 @@
 public class LatihanClass {
     public static void main(String[] args) {
-        Mahasiswa m1 = new Mahasiswa(); // membuat object
-
-        m1.nama = "Budi";
-        m1.nim = "1234";
-        m1.ipk = 3.75;
-
-        Mahasiswa m2 = new Mahasiswa();
+        Mahasiswa m1 = new Mahasiswa(); // connstructor default
+        Mahasiswa m2 = new Mahasiswa(); // berparameter
 
         m2.nama = "Siti";
         m2.nim = "67890";
