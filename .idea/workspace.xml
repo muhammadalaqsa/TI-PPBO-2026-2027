@@ -1,30 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6865d353-39db-4e07-8b29-046d6892d802" name="Changes" comment="" />
+    <list default="true" id="6865d353-39db-4e07-8b29-046d6892d802" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TI-PPBO-2026-2027.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TI-PPBO-2026-2027.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/KalkulatorBangunDatar.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/KalkulatorBangunDatar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/LatihanBiodataSaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/LatihanBiodataSaya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/LatihanNomor3.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/LatihanNomor3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/LatihanNomor4.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/LatihanNomor4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/LatihanNomor5.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/LatihanNomor5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/OperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/OperatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/ScannerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/ScannerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktikum-2/src/VariabelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/praktikum-3/src/VariabelDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "muhammadalaqsa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;muhammadalaqsa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/muhammadalaqsa/TI-PPBO-2026-2027",
-    "accountId": "88682f14-b640-40ad-bafb-df03d5da49de"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/muhammadalaqsa/TI-PPBO-2026-2027&quot;,
+    &quot;accountId&quot;: &quot;88682f14-b640-40ad-bafb-df03d5da49de&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3J1o9gNF6jGtP7uiwaFY6aalHRs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,15 +51,80 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloWorld.executor": "Run",
+    "Application.IfDemo.executor": "Run",
+    "Application.KalkulatorBangunDatar.executor": "Run",
+    "Application.KalkulatorSwitch.executor": "Run",
+    "Application.Latihan1.executor": "Run",
+    "Application.Latihan2.executor": "Run",
+    "Application.Latihan3.executor": "Run",
+    "Application.Latihan4.executor": "Run",
+    "Application.Latihan5.executor": "Run",
+    "Application.LogikaDemo.executor": "Run",
+    "Application.OperatorDemo.executor": "Run",
+    "Application.ScannerDemo.executor": "Run",
+    "Application.SwitchDemo.executor": "Run",
+    "Application.TugasPraktikum3.executor": "Run",
+    "Application.VariabelDemo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/TI-PPBO-2026-2027"
+    "last_opened_file_path": "D:/TI-PPBO-2026-2027",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.KalkulatorSwitch">
+    <configuration name="IfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfDemo" />
+      <module name="TI-PPBO-2026-2027" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalkulatorBangunDatar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorBangunDatar" />
+      <module name="TI-PPBO-2026-2027" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KalkulatorSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorSwitch" />
+      <module name="TI-PPBO-2026-2027" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogikaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogikaDemo" />
+      <module name="TI-PPBO-2026-2027" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchDemo" />
+      <module name="TI-PPBO-2026-2027" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KalkulatorSwitch" />
+        <item itemvalue="Application.SwitchDemo" />
+        <item itemvalue="Application.LogikaDemo" />
+        <item itemvalue="Application.IfDemo" />
+        <item itemvalue="Application.KalkulatorBangunDatar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
